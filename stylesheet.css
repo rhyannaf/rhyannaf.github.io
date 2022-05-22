@@ -1,0 +1,21 @@
+/*
+  CSC 337 BestReads. You should not need to modify this file. If you do,
+  empty your cache from your web browser and use Chrome's Incognito
+  window. If you do not, changes to this css file will not be downloaded
+  and you will see no change in the styling.
+*/
+
+body {
+	background-color: #fefcf4;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	margin: 0px;
+}
+
+h1 {
+	color: purple;
+	font-weight: bold;
+}
+
+p {
+	color: red;
+}
