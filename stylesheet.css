@@ -21,7 +21,7 @@ p {
 a:link, a:visited {
   background-color: #fefcf4;
   color: #A06070;
-  padding: 10px 25px;
+  padding: .8em 1.5em;
   text-align: center;
   text-decoration: none;
   display: inline-block;
